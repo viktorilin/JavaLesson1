@@ -30,7 +30,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>com.softserveinc.vilin.Main</mainClass>
+                            <mainClass>com.softserve.vilin.Main</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
